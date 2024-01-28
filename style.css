@@ -1,0 +1,634 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    
+    
+}
+.main{
+    background-color: rgb(24, 23, 23);
+    width: 100%;
+    height: 60vh;
+    
+}
+.main-cont{
+  margin-top: -500px;
+  margin-inline-start: 930px;
+}
+
+.ul-box{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#li-style{
+    width: 90px;
+    border : solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+
+
+}
+.heading{
+
+width: 30px;
+height: 30px;
+margin-left: 10px;
+margin-top: -22px;
+
+}
+.img-logo{
+    background-image: url(./space.png);
+    width: 90px;
+    height: 60px;
+}
+.heading-2{
+    color: white;
+    margin-left: 43%;
+    margin-top: 10%;
+}
+.heading-3{
+     color: white;
+     white-space: pre-wrap;
+     margin-left: 27%;
+     font-size: 50px;
+
+}
+.heading-4{
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: rgb(58, 13, 8);
+    background-color:chocolate ;
+    margin-left: 43%;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 2px;
+    
+}
+.box-1{
+    width: 250px;
+    border: solid black ;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 7px 10px 1px rgb(78, 78, 87);
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10%;
+    float: left;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+    
+}
+.box-2{
+    width: 250px;
+    border: solid black ;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 7px 10px 1px rgb(78, 78, 87);
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10%;
+    float: left;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.box-3{
+    width: 250px;
+    border: solid black ;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 7px 10px 1px rgb(78, 78, 87);
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10%;
+    float: left;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.box-4{
+    width: 250px;
+    border: solid black ;
+    border-style: none;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 4px 7px 10px 1px rgb(78, 78, 87);
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 10%;
+    float: left;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#box-container{
+    margin-left: 80px;
+}
+.h6{
+    margin-top: 20px;
+    opacity: 0.5;
+}
+.h6-2{
+    margin-top: 20px;
+    opacity: 0.5;
+}
+.h6-3{
+    margin-top: 20px;
+    /* opacity: 0.5; */
+    
+    
+}
+.h6-4{
+    margin-top: 20px;
+    opacity: 0.5;
+}
+ .second-head{
+    font-weight: bolder;
+  position: absolute;
+ margin-top: 40%;
+ font-size: 30px;
+ white-space: pre;
+ 
+ }
+ .para-1{
+    font-size: 10px;
+    text-indent: 40px;
+ }
+ .h6-5{
+    color: rgb(40, 126, 238);
+    margin-left: 38px;
+    font-size: 12px;
+    
+ }
+
+ .mount-1{
+    width: 30%;
+    margin-left: 45%;
+    margin-top: 10%;
+ }
+ .vicky{
+    
+ }
+ .vicky-1{
+    width: 300px;
+  
+
+    
+ }
+ .second-3{
+    margin-left: 40%;
+    margin-top: -270px;
+    font-weight: bold;
+    font-size: 30px;
+    white-space: pre-line;
+
+ }
+ .para-2{
+    font-size: 10px;
+    text-indent: 30px;
+    margin-left: 37%;
+    white-space: pre;
+    margin-top: 20px;
+ }
+
+ .h6-link{
+    margin-left: 40%;
+    padding-bottom: 20px;
+    color: rgb(40, 126, 238);
+      
+ }
+ .para-box{
+      font-size: 30px;
+      margin-top: 300px;
+      font-weight: bold;
+      white-space: pre-line;
+ }
+ .para-box2{
+    font-size: 10px;
+    white-space: pre-line;
+ }
+ .Design{
+     margin-left: 20px;
+     margin-top: 20px;
+ }
+ .para-3{
+    font-size: 10px;
+    white-space: pre-line;
+    margin-left: 20px;
+    padding-top: 5px;
+ }
+
+ .Design-2{
+    margin-left: 40%;
+    
+    margin-top: -30px;
+    
+ }
+ .para-4{
+     font-size: 10px;
+     white-space: pre-line;
+     margin-left: 40%;
+ }
+ .div-box{
+     width: 900px;
+     height: 200px;
+     border: 1px solid black;
+     background-color: black;
+     border-radius: 6px;
+     margin-top: 20px;
+
+ }
+ .para-5{
+    color: white;
+    margin-top: 70px;
+    margin-left: 70px;
+ }
+ .para-6{
+     font-size: 12px;
+     white-space: pre-line;
+     color: white;
+     margin-left: 70px;
+ }
+ .li-style{
+      list-style-type: none;
+      color: white;
+      width: 90px;
+      border : solid rgb(248, 32, 4);
+      background-color: rgb(250, 6, 6);
+      margin-left: 70%;
+      margin-top: -65px;
+ }
+ .h2{
+    white-space: pre-line;
+    font-size: 30px;
+    margin-top: 140px;
+ }
+ .div-box2{
+    width: 220px;
+    height: 220px;
+    border:  solid black;
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    box-shadow: 4px 6px 10px 2px rgb(78, 78, 87);
+    border-radius: 10px;
+    margin-top: 30px;
+    float: left;
+ }
+ .div-box3{
+    width: 220px;
+    height: 220px;
+    border:  solid black;
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    box-shadow: 4px 6px 10px 2px rgb(78, 78, 87);
+    border-radius: 10px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 20px;
+ }
+
+ .div-box4{
+    width: 220px;
+    height: 220px;
+    border:  solid black;
+    background-color: rgb(255, 255, 255);
+    border-style: none;
+    box-shadow: 4px 6px 10px 2px rgb(78, 78, 87);
+    border-radius: 10px;
+    margin-top: 30px;
+    float: left;
+    margin-left: 20px;
+ }
+ .audit{
+     padding-left: 20px;
+     padding-top: 35px;
+ }
+ .para-9{
+    padding-top: 10px;
+    padding-left: 18px;
+    font-size: 10px;
+ }
+
+ .expern{
+    font-size: 10px;
+    opacity: 0.5;
+    padding-top: 50px;
+    padding-left: 15px;
+ }
+
+ .audit-2{
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.para-10{
+   padding-top: 10px;
+   padding-left: 18px;
+   font-size: 10px;
+}
+
+.expern-2{
+   font-size: 10px;
+   opacity: 0.5;
+   padding-top: 50px;
+   padding-left: 15px;
+}
+
+.audit-3{
+    padding-left: 20px;
+    padding-top: 35px;
+}
+.para-11{
+   padding-top: 10px;
+   padding-left: 18px;
+   font-size: 10px;
+}
+
+.expern-3{
+   font-size: 10px;
+   opacity: 0.5;
+   padding-top: 50px;
+   padding-left: 15px;
+}
+
+.h2-desi{
+     white-space: pre-line;
+     margin-top: 400px;
+     margin-left: 28%;
+     font-size: 25px;
+}
+.para-12{
+    font-size: 13px;
+}
+
+.cute{
+    width: 910px;
+    height: 512px;
+}
+
+.grp{
+    width: 310px;
+    height: 217px;
+    margin-top: 200px;
+    float: left;
+}
+
+.equip{
+    width: 230px;
+    height: 341px;
+    padding-left: 20px;
+    margin-top: 75px;
+    float: left;
+    
+}
+
+.women{
+    width: 260px;
+    height: 450px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-top: 150px;
+
+}
+.hero-section{
+    margin-top: -160px;
+    font-size: 20px;
+}
+
+.para-14{
+     font-size: 12px;
+     white-space: pre-line;
+     margin-top: 20px;
+}
+
+.water{
+    width: 240px;
+    height: 314px;
+    margin-top: 230px;
+}
+
+.hero-section2{
+    font-size: 20px;
+    white-space: pre-line;
+    margin-left: 290px;
+    margin-top: -400px;
+}
+.para-15{
+    font-size: 12px;
+    white-space: pre-line;
+}
+
+.watch{
+    width: 410px;
+    height: 218px;
+    margin-left: 260px;
+    margin-top: 30px;
+
+}
+.hero-section3{
+    font-size: 20px;
+    margin-top: 150px;
+}
+.para-16{
+    font-size: 12px;
+    white-space: pre-line;
+    margin-top: 25px;
+}
+.glasses{
+    width: 350px;
+    height: 230px;
+    margin-top: 20px;
+    float: left;
+
+}
+
+.vacation{
+    width: 200px;
+    height: 400px;
+    margin-left: 30px;
+}
+.para-17{
+    font-weight: bold;
+    white-space: pre-line;
+    margin-left: 130PX;
+    margin-top: 120px;
+}
+.img-luccy{
+     width: 40px;
+     height: 40px;
+     border-radius: 50px;
+     margin-left: 130px;
+     margin-top: 20px;
+}
+
+.andry{
+    margin-top: -35px;
+    margin-left: 200px;
+}
+.para-20{
+    /* opacity: 0.5; */
+    font-size: 10px;
+    padding-top: 2px;
+}
+
+.WATCH-2{
+    width: 810px;
+    height: 390px;
+    margin-top: 150px;
+
+}
+.leadr{
+    font-size: 20px;
+    margin-left: 280px;
+    margin-top: 100px;
+}
+
+.para-21{
+    font-size: 10px;
+   white-space: pre-line; 
+   padding-top: 25px;
+   margin-left: -80px;
+
+}
+.sub-cont{
+    margin-left: 50px;
+    float: left;
+    
+}
+.vicky-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    margin-top: 60px;
+}
+.ford{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+.para-22{
+    font-size: 12px;
+    margin-left: -4px;
+    margin-top: 2px;
+    
+
+}
+
+.sub-cont2{
+    margin-left: 15px;
+    float: left;
+}
+.john{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    margin-top: 60px;
+}
+.ford-2{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+.para-23{
+    font-size: 12px;
+    margin-left: -4px;
+    margin-top: 2px;
+
+}
+
+.sub-cont3{
+    margin-left: 15px;
+    float: left;
+}
+.lucy-3{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    margin-top: 60px;
+}
+.ford-3{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+.para-24{
+    font-size: 12px;
+    margin-left: -4px;
+    margin-top: 2px;
+
+}
+
+.sub-cont4{
+    margin-left: 15px;
+    float: left;
+}
+.glasses-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 8px;
+    margin-top: 60px;
+}
+.ford-4{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+.para-25{
+    font-size: 12px;
+    margin-left: -4px;
+    margin-top: 2px;
+}
+
+.lenovo{
+     width: 430px;
+     height: 390px;
+     margin-top: 380px;
+     margin-left: -710px;
+     
+}
+.end{
+    font-size: 25px;
+    white-space: pre-line;
+    margin-left: 450px;
+    margin-top: -250px;
+}
+
+.li-style2{
+    width: 90px;
+    border: solid rgb(14, 97, 206);
+    background-color: rgb(14, 97, 206);
+    list-style: none;
+    margin-left: 38%;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    border-radius: 3px;
+}
+
+.new{
+    margin-top: 155px;
+    margin-left: 530px;
+    font-size: 10px;
+}
+
+.new-2{
+    margin-top: -11px;
+    font-size: 10px;
+    margin-left: 50px;
+}
